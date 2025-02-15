@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to my humble realm 👋 🐈‍⬛
+
+### My skills
+____________________________________
+
+
 
 <!--
 **Khajiitspy/Khajiitspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
