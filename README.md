@@ -1,5 +1,5 @@
 # Welcome to my humble realm 👋 🐈‍⬛
-![Skyrim Intro](https://github.com/Khajiitspy/Khajiitspy/blob/main/skyrim-margin.gif?raw=true)
+![Cute Gif](https://github.com/Khajiitspy/Khajiitspy/blob/main/bf-3090438266.gif?raw=true)
 
 ## 💫 About Me:
 I am learning software development at ITstep and want to get into Game Development.
